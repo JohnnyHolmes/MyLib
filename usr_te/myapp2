@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+sleep 30
+ls
+cat usr_te/myapp

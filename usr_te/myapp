@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+sleep 2
+ls
+cat usr_te/myapp
+./usr_te/myapp2
